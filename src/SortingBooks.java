@@ -33,6 +33,8 @@ public class SortingBooks {
             System.out.println(book.toString());
         }
 
+        System.out.println("--------------------");
+
         SortingBooks sortingBooks = new SortingBooks();
         sortingBooks.sortingBooks(books);
 
