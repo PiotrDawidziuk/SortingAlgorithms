@@ -8,4 +8,4 @@ Algorithms included:
 - Quick Sort
 
 Additional classes:
-- Book (author, title, price)
+- Book (author, title, price)# SearchingAlgorithms
