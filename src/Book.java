@@ -28,6 +28,17 @@ public class Book {
         this.price = price;
     }
 
+    public Book(String title, String author, int price) {
+        this.title = title;
+        this.author = author;
+        this.price = price;
+    }
+
+    public Book(String title, String author) {
+        this.title = title;
+        this.author = author;
+    }
+
     @Override
     public String toString() {
 
